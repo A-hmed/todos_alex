@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273119491520",
+    "project_id": "todos-alex",
+    "storage_bucket": "todos-alex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273119491520:android:2157908a43b58c3356c425",
+        "android_client_info": {
+          "package_name": "com.example.todos_alex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273119491520-88gqbv070fsttq4hpg48mgk3d3ejqeeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf4MXoUjua16GjZeishtslNgLPaozQbT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273119491520-88gqbv070fsttq4hpg48mgk3d3ejqeeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
